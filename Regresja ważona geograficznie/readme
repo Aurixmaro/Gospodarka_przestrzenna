@@ -1,0 +1,13 @@
+Cel – wyznaczeni funkcji regresji opisującej wartość na rynku 
+nieruchomości
+
+Dane: 
+– mapa wektorowa powiatów
+– średnia cena za m2 powierzchni nieruchomości lokalowej na rynku wtórnym za lata 2015-2018,
+– mediana za m2 powierzchni nieruchomości lokalowej na rynku wtórnym za lata 2015-2018,
+– powierzchnia użytkowa sprzedanych nieruchomości lokalowej na rynku wtórnym za lata 2015-2018,
+– liczba sprzedanych nieruchomości lokalowej na rynku wtórnym za lata  2015-2018
+
+Założenia:
+– Analiza będzie wykonana w oparciu o interpolację Multilevel B-spline na podstawie 
+centroidów powiatów
