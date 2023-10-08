@@ -1,0 +1,17 @@
+Zakaz użytkowania licencji
+
+PL
+
+Warunki:
+1. Każda osoba lub podmiot jest zabroniona używać, kopiować, modyfikować, łączyć, rozpowszechniać, sublicencjonować, publikować, sprzedawać, udostępniać, lub wykorzystywać w jakikolwiek sposób kod źródłowy objęty tą licencją, w tym wszelkie pochodne prace utworzone na jego podstawie.
+2. Wszelkie prawa autorskie do kodu źródłowego objętego tą licencją należą wyłącznie do autora, który zachowuje pełne i wyłączne prawa do rozporządzania nim.
+3. Wyjątki od tej licencji mogą być udzielane wyłącznie na piśmie przez autora.
+
+Prohibition of Use License
+
+ENG
+
+Terms:
+1. Any individual or entity is prohibited from using, copying, modifying, combining, distributing, sublicensing, publishing, selling, sharing, or utilizing in any way the source code covered by this license, including any derivative works created from it.
+2. All copyrights to the source code covered by this license belong solely to the author, who retains full and exclusive rights to dispose of it.
+3. Exceptions to this license may be granted only in writing by the author.
