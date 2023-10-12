@@ -1,0 +1,32 @@
+Analizy zostały przeprowadzone na podstawie danych z bdl.stat.gov obejmujące zakres lat 2015 oraz 2016.
+Analizę przeprowadzałem dla grupy powiatów z województwa Kujawsko-Pomorskiego. Analizowane powiaty to powiat:
+-aleksandrowski
+-bydgoski
+-Bydgoszcz
+-inowrocławski
+-lipnowski
+-mogileński
+-nakielski
+-radziejowski
+-rypiński
+-Toruń
+-toruński
+-Włocławek
+-włocławski
+-żniński
+
+#Wskaźniki
+
+W01 - Wymeldowania do innych powiatów na pobyt stały w stosunku do liczby mieszkańców w powiecie (w %).
+W02  - Stopa bezrobocia rejestrowanego (w %).
+W03 - Przeciętne miesięczne wynagrodzenie brutto (w zł).
+W04 - Liczba lekarzy pracujących przypadających na 1000 mieszkańców.
+W05 - Liczba osób zatrudnionych w warunkach zagrożenia na 1000  osób zatrudnionych w badanej zbiorowości.
+W06  - Liczba przestępstw stwierdzonych przez Policję w zakończonych  postępowaniach przygotowawczych przypadająca na 1000 mieszkańców.
+W07  - Liczba mieszkań przypadająca na 1000 mieszkańców.
+W08  - Przeciętna powierzchnia użytkowa mieszkania przypadającana 1 osobę (w m²).
+W09 - Liczba szkół podstawowych przypadających na 10 km² .
+W10 - Liczba klubów sportowych i wyznaniowych przypadającychna 10 tys. mieszkańców.
+W11  – Powierzchnia terenów zieleni ogółem (parki spacerowowypoczynkowe, zieleńce, zieleń uliczna, tereny zieleni osiedlowej i lasy gminne) przypadających na 1000 mieszkańców (w ha).
+W12  – Długość dróg gminnych i powiatowych o twardej nawierzchni  przypadających na 100 km² (w km).
+W13  - Księgozbiór bibliotek na 1000 ludności.
