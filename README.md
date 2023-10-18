@@ -10,7 +10,7 @@ This repository also does not include group projects that committed of, among ot
 From the co-author on September 28, 2023, and from the second co-author on October 4, 2023.
 Zakaz użytkowania licencji
 
-Licence
+Licencja
 
 Warunki:
 1. Każda osoba lub podmiot jest zabroniona używać, kopiować, modyfikować, łączyć, rozpowszechniać, sublicencjonować, publikować, sprzedawać, udostępniać, lub wykorzystywać w jakikolwiek sposób kod źródłowy objęty tą licencją, w tym wszelkie pochodne prace utworzone na jego podstawie.
